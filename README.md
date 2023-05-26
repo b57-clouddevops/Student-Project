@@ -38,7 +38,7 @@ Following are the observations of yourself from the application architecture
 
 So you want to understand the technical configurations of application hence you are referred to use the developer documentation to setup and application. Now your task is to setup the application by referring the following documentation.
 
-[Click here for application Configuration on servers, Only EC2](https://gitlab.com/clouddevops-b54/project-docs/-/blob/main/First/components-on-servers.md)
+[Click here for application Configuration on servers, Only EC2](https://gitlab.com/clouddevops-b54/student-project/-/blob/main/First/components-on-servers.md)
 
 
 Now as per the application architecture you need to design the infrastructure components. As Bob has already taken the stand on moving to AWS now we are going to use AWS to deploy this application.

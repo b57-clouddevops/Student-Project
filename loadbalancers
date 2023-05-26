@@ -1,0 +1,9 @@
+### Load Balancers in AWS :
+
+1) Elastic/Classic Load Balancer   
+2) Application Load Balancer  : Layer 7 Load Balancer  : http/https protocol
+(flipkart.com/cart ) 
+(flipkart.com/account ) 
+(flipkart.com/shirts
+3) Network LoadBalancer  :  This works on layer 4 and this supports almost all
+the network protocols like tcp, udp . . .

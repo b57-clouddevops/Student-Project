@@ -81,7 +81,7 @@ student> cd apache-tomcat-8.5.99
 Student Admission application compiled latest version is available in following URL and you have to download that to application server.
 
 ```shell
-student> wget https://devops-cloudcareers.s3.ap-south-1.amazonaws.com/student.war -O webapps/student.war
+student> wget https://s3.amazonaws.com/www.thecloudcareers.com/student.war -O webapps/student.war
 ```
 
 In order our application server to contact database we need the driver of DB and we have to download that from following URL.

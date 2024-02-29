@@ -47,7 +47,7 @@ ProxyPassReverse "/student"  "http://APP-SERVER-IPADDRESS:8080/student"
 *Note: Replace APP-SERVER-IPADDRESS with IP address of tomcat server * 
 
 ```shell 
-$ sudo curl -s https://devops-cloudcareers.s3.ap-south-1.amazonaws.com/index.html -o /var/www/html/index.html
+$   
 $ sudo systemctl enable httpd 
 $ sudo systemctl restart httpd 
 ```

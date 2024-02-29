@@ -106,7 +106,7 @@ Add the following content by replacing the values of USERNAME, PASSWORD, DB-ENDP
 Finally we have to start the tomcat application server.
 
 ```shell 
-student> /home/student/apache-tomcat-8.5.38/bin/startup.sh 
+student> /home/student/apache-tomcat-8.5.99/bin/startup.sh 
 ```
 
 Refer the log file `catalina.out` and ensure there were no errors in the startup log. 
@@ -126,7 +126,7 @@ $ sudo systemctl start mariadb
 So far only the DB software is installed and it does not have any database inside it. So we have to create database and required tables on it. 
 
 ```shell 
-$ wget https://devops-cloudcareers.s3.ap-south-1.amazonaws.com/studentapp-ui-proj.sql -O /tmp/studentapp.sql 
+$ wget https://s3.amazonaws.com/www.thecloudcareers.com/studentapp-ui-proj.sql -O /tmp/studentapp.sql 
 $ sudo mysql </tmp/studentapp.sql
 
 ```

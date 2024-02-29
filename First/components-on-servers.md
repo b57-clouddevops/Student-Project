@@ -74,8 +74,8 @@ Now perform all the following commands with `student` user.
 
 ```shell 
 $ sudo su - student 
-student> wget http://apachemirror.wuchna.com/tomcat/tomcat-8/v8.5.84/bin/apache-tomcat-8.5.84.tar.gz ; tar -xf apache-tomcat-8.5.84.tar.gz
-student> cd apache-tomcat-8.5.84
+student> wget https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.99/bin/apache-tomcat-8.5.99.tar.gz ; tar -xf apache-tomcat-8.5.99.tar.gz
+student> cd apache-tomcat-8.5.99
 ```
 
 Student Admission application compiled latest version is available in following URL and you have to download that to application server.

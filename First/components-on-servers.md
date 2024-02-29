@@ -87,8 +87,8 @@ student> wget https://s3.amazonaws.com/www.thecloudcareers.com/student.war -O we
 In order our application server to contact database we need the driver of DB and we have to download that from following URL.
 
 ```shell
-student> wget https://devops-cloudcareers.s3.ap-south-1.amazonaws.com/mysql-connector.jar
-mv mysql-connector.jar lib/mysql-connector.jar
+student> wget https://s3.amazonaws.com/www.thecloudcareers.com/mysql-connector.jar -O lib/mysql-connector.jar
+
 ```
 
 Finally we need to provide the information of DB details to the application server and those credentials are referred by our application.

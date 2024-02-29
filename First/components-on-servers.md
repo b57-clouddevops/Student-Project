@@ -28,7 +28,7 @@ OS can be either Ubuntu or CentOS, But this document would be on Centos 7.
 
 #
 
-### 1. Ensure you use the AMI `DevOps-LabImage-CentOS7` in North.Virginia Region and this AMI works with username and password ( centos / DevOps321 ), without which lot of challenges would be coming up.
+### 1. Ensure you use the AMI `DevOps-LabImage-Centos-8` in North.Virginia Region and this AMI works with username and password ( centos / DevOps321 ), without which lot of challenges would be coming up.
 
 Install Web Server 
 

@@ -24,7 +24,7 @@ Following are the technicalities for the tools
 2. Tomcat App Server 8.5.x 
 3. MariaDB Server 10.x
 
-OS can be either Ubuntu or CentOS, But this document would be on Centos 7.
+OS can be either Ubuntu or CentOS, But this document would be on Centos 8.
 
 #
 

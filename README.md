@@ -14,7 +14,7 @@ Bob went to different cloud vendors and their quotations , he decided to go with
 So now you as a DevOps engineer you need to take care of the efforts.
 
 
-*  Supporting Agile Development and make necessary automation to deliver the application in CD/CD manner.
+*  Supporting Agile Development and make necessary automation to deliver the application in CI/CD manner.
 *  Ensure running the application 24/7 and also application met the capacity requirements (TPS).
 *  Bob has given you free hand to use the tools of your choice to get this complete process standardized.
 *  You need to review the complete requirements and finalize what are the tools can be used to standardized automation for this complete requirements.
